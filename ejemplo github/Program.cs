@@ -10,10 +10,22 @@ namespace ejemplo_github
     {
         static void Main(string[] args)
         {
-            Console.Write("asdjasdasidjsia");
+            string producto = "";
 
-            Console.WriteLine("\nprobando");
+            double precio = 0;
 
+            int cantidad = 0;
+
+            Console.WriteLine("Ingrese su producto.");
+            producto = Console.ReadLine();
+
+            Console.WriteLine("Precio: ");
+            precio = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese la cantidad de producto: ");
+            cantidad = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("El producto {0} tiene una inversion de {1}", producto, (double)precio * cantidad);
 
             Console.ReadKey();
 
