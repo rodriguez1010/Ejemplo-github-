@@ -1,0 +1,7 @@
+C:\Users\juan antonio\Dropbox\PC\Downloads\elias\ejemplo github\ejemplo github\bin\Debug\ejemplo github.exe.config
+C:\Users\juan antonio\Dropbox\PC\Downloads\elias\ejemplogithub\ejemplo github\bin\Debug\ejemplo github.exe.config
+C:\Users\juan antonio\Dropbox\PC\Downloads\elias\ejemplogithub\ejemplo github\bin\Debug\ejemplo github.exe
+C:\Users\juan antonio\Dropbox\PC\Downloads\elias\ejemplogithub\ejemplo github\bin\Debug\ejemplo github.pdb
+C:\Users\juan antonio\Dropbox\PC\Downloads\elias\ejemplogithub\ejemplo github\obj\Debug\ejemplo github.csprojResolveAssemblyReference.cache
+C:\Users\juan antonio\Dropbox\PC\Downloads\elias\ejemplogithub\ejemplo github\obj\Debug\ejemplo github.exe
+C:\Users\juan antonio\Dropbox\PC\Downloads\elias\ejemplogithub\ejemplo github\obj\Debug\ejemplo github.pdb
