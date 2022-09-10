@@ -11,6 +11,12 @@ namespace ejemplo_github
         static void Main(string[] args)
         {
             Console.Write("asdjasdasidjsia");
+
+            Console.WriteLine("\nprobando");
+
+
+            Console.ReadKey();
+
         }
     }
 }
