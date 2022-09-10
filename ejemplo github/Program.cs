@@ -10,6 +10,9 @@ namespace ejemplo_github
     {
         static void Main(string[] args)
         {
+
+            Console.ForegroundColor = ConsoleColor.Gray;
+
             string producto = "";
 
             double precio = 0;
